@@ -30,7 +30,7 @@ package loops_graphical;
 			g.fillRect(0, 0, WIDTH, HEIGHT);
 			
 			// call your methods here
-			setupcircle(g, 6);
+			setupcircle(g, 7);
 		}
 		public void setupcircle (Graphics g, int n) {
 			g.setColor(Color.blue);
