@@ -1,8 +1,8 @@
-package loops_graphical;
+package more_with_nested_loops_3_Nov18;
 
 import java.util.Scanner;
 
-public class Nested_loop2 {
+public class Q1 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
